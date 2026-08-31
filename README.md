@@ -1,4 +1,4 @@
-\#UPI Transaction EDA
+\# UPI Transaction EDA
 
 
 
@@ -6,7 +6,7 @@ Exploratory data analysis of daily UPI transaction volume and transaction value 
 
 
 
-\##About the Project
+\## About the Project
 
 
 
